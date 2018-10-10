@@ -1,0 +1,104 @@
+#lights {
+    width: 150px; 
+    height: 305px;
+    border-radius: 60px;
+    background: grey;
+    margin-top: 20px;
+      
+}
+
+#redLight {
+    width: 80px;
+    height: 80px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 55px;
+    border-radius: 50px;
+    background: black;
+    margin-left: 35px;
+    margin-top: 20px;
+    position:relative; top:20px; 
+
+}
+
+#yellowLight {
+    width: 80px;
+    height: 80px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 50px;
+    background: black;
+    margin-left: 35px;
+    margin-top: 30px;
+  
+}
+
+#greenLight {
+    width: 80px;
+    height: 80px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 40px;
+    background: black;
+    margin-left: 35px;
+    margin-top: 15px;
+
+}
+
+.redButton {
+    background-color: red; 
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
+
+.yellowButton {
+    background-color: yellow; 
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
+
+.greenButton {
+    background-color: green; 
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
+
+.button {
+    background-color: grey; 
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+}
+
+
+ 
