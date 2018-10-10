@@ -26,3 +26,10 @@ function allLights() {
 
 }
 
+function clearLights() {
+    document.getElementById("redLight").style.background = "black";
+    document.getElementById("yellowLight").style.background = "black";
+    document.getElementById("greenLight").style.background = "black";
+    
+}
+
